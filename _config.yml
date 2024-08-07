@@ -12,7 +12,7 @@ title                    : "0715"
 title_separator          : "-"
 name                     : &name "Hongdou Dong"
 description              : &description "The peach tree is planted in the heart, and the peach blossoms are scorched"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nostory19.github.io/0715/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "3bi4.jpg"
+  avatar           : "3bi4.png"
   name             : "Hongdou Dong"
   pronouns         : # example: "he"  
   bio              : "The peach tree is planted in the heart, and the peach blossoms are scorched"
